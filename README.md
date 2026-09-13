@@ -1,3 +1,4 @@
+🌐 Live Demo Streamlit Dashboard: https://movie-recommendation-system-wdecvuqeypqutz6fqhdkgf.streamlit.app/
 # Movie Recommendation System
 
 A **content-based movie recommendation system** built using Python and machine learning techniques. The system analyzes movie information such as genres, keywords, overview, cast, and crew to recommend movies that are similar to a movie selected by the user.
